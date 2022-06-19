@@ -38,7 +38,7 @@ main {
     color: #1f314f;
     font-size: 22px;
     font-weight: 700;
-    line-height: 27.72px;
+    line-height: 28px;
     text-align: center;
     margin: 0px 16px 16px 16px;
     padding: 0px 6px;
@@ -56,13 +56,6 @@ main {
     letter-spacing: 0.1875px;
     margin: 0px 32px 40px 32px;
 }
-
-
-
-
-
-
-
 
 .attribution {
   font-size: 11px;
